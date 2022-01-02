@@ -1,2 +1,3 @@
 # KDB
-A easy to use and deploy database, written by PHP
+
+https://api.krunk.cn/kdb/
